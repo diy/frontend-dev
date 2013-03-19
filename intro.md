@@ -1,8 +1,8 @@
 ![frontend dev](http://diy-visualpedia.s3.amazonaws.com/diy-frontend-header.png)
 
-## Exta Resources for Front-end Dev
+## Exta Resources for Frontend Dev
 
-We created a few pages to help makers who are completing the [Front-end Dev Skill](https//diy.org/skills/front-enddev. 
+We created a few pages to help makers who are completing the [Frontend Dev Skill](https//diy.org/skills/frontenddev. 
 
 * Use [View Source](http://fedev.herokuapp.com/challenge/1) to see the inner workings of any website
 * Learn how to view a [site's CSS](http://fedev.herokuapp.com/challenge/2)

@@ -1,6 +1,6 @@
-# Front-end Dev Supplemental Resource Pages
+# Frontend Dev Supplemental Resource Pages
 
-Pages that we created to aid in the [Front-end Dev Skill](https://diy.org/skills/front-enddev).
+Pages that we created to aid in the [Frontend Dev Skill](https://diy.org/skills/frontenddev).
 
 ## Simply Speaking
 
